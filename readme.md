@@ -1,8 +1,4 @@
-# Technetium - Backend Cohort Repository
-
-Welcome to the Technetium repository for the backend cohort! This repository contains the code for the Blogging Site Mini Project. The project is divided into two phases and includes models, APIs, authentication, authorization, and testing.
-
-## Phase I
+# Blogging Site
 
 ### Models
 
@@ -33,8 +29,6 @@ Welcome to the Technetium repository for the backend cohort! This repository con
 - `PUT /blogs/:blogId`: Updates a blog by changing its title, body, adding tags, adding a subcategory, or changing its publish status.
 - `DELETE /blogs/:blogId`: Marks a blog as deleted.
 - `DELETE /blogs?queryParams`: Deletes blog documents based on query parameters.
-
-## Phase II
 
 ### Authentication and Authorization
 
